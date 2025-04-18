@@ -1,0 +1,121 @@
+.Hadtop
+{
+    font-size: 14px;
+    color: #5c6c75;
+    font-weight: bold;
+    background-color: #f0f2f1;
+}
+.contdrop
+{
+    border: none !important;
+    border-radius: 0px !important;
+    background: none;
+}
+.contdrop:hover
+{
+    color: green !important;
+}
+:root
+{
+    --bg_mycolor:#0aad0a !important;
+}
+.bgclr
+{
+    
+    background-color:var(--bg_mycolor) !important;
+}
+.txtclr{
+color: var(--bg_mycolor) !important;
+}
+.navtxt
+{
+    font-size: 14px !important;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-left: 10px;
+}
+.Hadtop span {
+    font-size: calc(0.8rem + 0.2vw); /* Adjusts size based on screen width */
+  }
+  .Navserch img {
+    max-height: 40px; /* Ensures icons don't stretch */
+  }
+  
+  .Navserch .input-group input {
+    font-size: 14px; /* Keeps font size consistent */
+  }
+  
+  .Navserch button {
+    white-space: nowrap; /* Prevents button text from wrapping */
+  }
+ .fimage
+ {
+  height: 100px !important;
+  width: 90px !important;
+  /* margin-left: 90px; */
+ } 
+.fcardtext
+{
+  font-size: 14px;
+  font-weight: 700;
+}
+.fcard
+{
+  background-color: white !important;
+  height: 200px !important;
+ 
+}
+
+.fcard:hover
+{
+  box-shadow: 0px 0px 10px 0px lightgray !important;
+}
+.bigcard
+{
+  height: 200px !important;
+}
+.btn-card
+{
+  background-color: rgb(33, 49, 60) !important;
+  color: white !important;
+}
+.card-border{
+  border: none !important;
+}
+.pcard
+{
+  height:320px !important;
+  width: 230px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px lightgray !important;
+}
+.pcard:hover{
+  box-shadow: 0px 0px 10px 0px lightgray !important;
+}
+.pcard-text
+{
+  font-size: 13px !important;
+}
+.price-text
+{
+  font-size: 17px !important;
+}
+.bestsellcard
+{
+  height: 400px !important;
+}
+.footerclr
+{
+  background-color: rgb(236, 240, 239) !important;
+}
+.footer li{
+  font-size: 13px ;
+  margin-top:7px ;
+  font-weight: bolder;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+}
+.copyright
+{
+  font-size:12px !important;
+  font-family: sans-serif !important;
+}
